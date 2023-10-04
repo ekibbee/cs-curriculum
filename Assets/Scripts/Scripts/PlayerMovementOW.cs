@@ -32,9 +32,3 @@ public class PlayerMovementOW : MonoBehaviour
         
 
     }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        //if()
-    }
-}
